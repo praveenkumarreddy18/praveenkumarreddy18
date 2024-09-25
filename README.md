@@ -69,7 +69,7 @@ contributing to open-source communities.
   Solved over 100 problems in algorithms and data structures.
 
 - **[HackerRank](https://www.hackerrank.com/profile/guddampraveen)**  
-  <img src="https://img.icons8.com/color/24/000000/hackerrank.png" alt="HackerRank" width="24" height="24">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/HackerRank_logo.png" alt="HackerRank" width="24" height="24">  
   Ranked in the top 5% in Java and algorithm challenges.
 
 ---
