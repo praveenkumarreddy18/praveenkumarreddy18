@@ -18,6 +18,7 @@ contributing to open-source communities.
 ---
 
 ### 🧰 Tech Stack
+### My Skills
 - **Languages**:  
   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java, 
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript, 
@@ -30,9 +31,22 @@ contributing to open-source communities.
   ![Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png) Apache Kafka
   
 - **Tools**:  
-  ![Maven](
-
-
+  ![Maven](https://img.icons8.com/color/48/000000/apache-maven.png) Maven, 
+  ![Git](https://img.icons8.com/color/48/000000/git.png) Git, 
+  ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) Jenkins
+  
+- **Databases**:  
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL, 
+  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL, 
+  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+  
+- **Testing**:  
+  ![JUnit](https://img.icons8.com/color/48/000000/junit.png) JUnit, 
+  ![Mockito](https://img.icons8.com/color/48/000000/mockito.png) Mockito
+  
+- **Version Control**:  
+  ![Git](https://img.icons8.com/color/48/000000/git.png) Git, 
+  ![GitHub](https://img.icons8.com/color/48/000000/github.png) GitHub
 
 
 
