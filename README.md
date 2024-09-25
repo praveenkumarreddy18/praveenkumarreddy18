@@ -1,0 +1,120 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile README</title>
+    <!-- Font Awesome and Devicon stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+</head>
+<body>
+    <h1 style="color: #2C3E50; font-size: 48px; text-align: center; font-weight: bold;">
+        Hey, I'm <span style="color: #35ac63;">Praveen Reddy</span> 👋
+    </h1>
+    <h2 style="color: #007396; background-color: #f0f0f0; padding: 10px; border-radius: 8px; text-align: center; font-weight: bold; font-family: Arial, sans-serif;">
+        <span style="color: #c75c44;">Enthusiastic Java Developer</span> | 
+        <span style="color: #215737;">Lifelong Learner</span> | 
+        <span style="color: #F39C12;">Open-Source Contributor</span>
+    </h2>
+    <h3>About Me</h3>
+    <p>
+        I'm a passionate Java developer with a strong interest in building scalable and 
+        efficient backend systems. Since graduating with a degree in Computer Science, 
+        I have been honing my skills in Java development, focusing on technologies like 
+        <strong>Spring Boot</strong>, <strong>Hibernate</strong>, and <strong>RESTful API</strong> development. I love solving real-world problems through code and I'm
+        constantly improving by working on new projects, exploring the latest tools, and 
+        contributing to open-source communities.
+    </p>
+    <ul>
+        <li>🌱 I’m currently learning: Advanced <strong>Java Streams</strong>, <strong>Microservices architecture</strong>, and <strong>AWS Cloud</strong>.</li>
+        <li>👯 I’m looking to collaborate on: Open-source Java projects and new technologies like <strong>Kubernetes</strong>.</li>
+        <li>💬 Ask me about: Java, Spring Boot, REST APIs, and Backend Development.</li>
+        <li>⚡ Fun fact: I'm a huge fan of solving algorithmic challenges during my free time!</li>
+    </ul>
+    <hr>
+    <h3>My Skills</h3>
+    <ul>
+        <li><strong><i class="fas fa-code" style="color:#5A9; font-size: 18px;"></i> Languages</strong>:   
+            <i class="devicon-java-plain" style="color:#007396; font-size: 24px;"></i> Java, 
+            <i class="devicon-javascript-plain" style="color:#F0DB4F; font-size: 24px;"></i> JavaScript, 
+            <i class="devicon-sqlite-plain" style="color:#003B57; font-size: 24px;"></i> SQL
+        </li>
+        <li><strong><i class="fas fa-cubes" style="color:#FF5733; font-size: 18px;"></i> Frameworks</strong>:   
+            <i class="devicon-spring-plain" style="color:#6DB33F; font-size: 24px;"></i> Spring Boot, 
+            <i class="fas fa-database" style="color:#E74C3C; font-size: 24px;"></i> Hibernate, 
+            <i class="fas fa-project-diagram" style="color:#27AE60; font-size: 24px;"></i> JPA, 
+            <i class="devicon-apachekafka-original" style="color:#231F20; font-size: 24px;"></i> Apache Kafka
+        </li>
+        <li><strong><i class="fas fa-tools" style="color:#F39C12; font-size: 18px;"></i> Tools</strong>:   
+            <i class="devicon-apache-plain" style="color:#D22128; font-size: 24px;"></i> Maven, 
+            <i class="devicon-git-plain" style="color:#F05032; font-size: 24px;"></i> Git, 
+            <i class="devicon-jenkins-line" style="color:#D24939; font-size: 24px;"></i> Jenkins
+        </li>
+        <li><strong><i class="fas fa-database" style="color:#2980B9; font-size: 18px;"></i> Databases</strong>: 
+            <i class="devicon-mysql-plain" style="color:#4479A1; font-size: 24px;"></i> MySQL, 
+            <i class="devicon-postgresql-plain" style="color:#336791; font-size: 24px;"></i> PostgreSQL, 
+            <i class="devicon-mongodb-plain" style="color:#4DB33D; font-size: 24px;"></i> MongoDB
+        </li>
+        <li><strong><i class="fas fa-vial" style="color:#9B59B6; font-size: 18px;"></i> Testing</strong>: 
+            <i class="devicon-java-plain" style="color:#007396; font-size: 24px;"></i> JUnit, 
+            <i class="fas fa-check-circle" style="color:#27AE60; font-size: 24px;"></i> Mockito
+        </li>
+        <li><strong><i class="fas fa-code-branch" style="color:#E67E22; font-size: 18px;"></i> Version Control</strong>: 
+            <i class="devicon-git-plain" style="color:#F05032; font-size: 24px;"></i> Git, 
+            <i class="devicon-github-original" style="color:#333; font-size: 24px;"></i> GitHub
+        </li>
+    </ul>
+    <hr>
+    <h3>Highlighted Project</h3>
+    <ol>
+        <li>
+            <strong><a href="https://github.com/praveenkumarreddy18/leaf-disease-detection">[Leaf Disease Detection using Deep Learning]</a></strong><br>
+            <em>Technologies</em>: Python, Keras, MySQL<br>
+            <p>Leaf disease detection using deep learning leverages convolutional 
+            neural networks to analyze plant leaf images, identifying diseases early and 
+            accurately. This technology aids farmers in taking timely actions, 
+            improving crop yield and reducing pesticide use for sustainable agriculture.</p>
+        </li>
+    </ol>
+    <hr>
+    <h3>Contributions & Learning</h3>
+    <ul>
+        <li>
+            <a href="your_leetcode_profile_link" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" style="width:24px; height:24px;">
+            </a>
+            <strong>LeetCode</strong><br>
+            Solved over 100 problems in algorithms and data structures.
+        </li>
+        <li>
+            <a href="https://www.hackerrank.com/profile/guddampraveen" target="_blank">
+                <i class="fab fa-hackerrank" style="font-size:24px;"></i>
+            </a>
+            <strong>HackerRank</strong><br>
+            Ranked in the top 5% in Java and algorithm challenges.
+        </li>
+    </ul>
+    <hr>
+    <h3>Get In Touch</h3>
+    <ul>
+        <li><strong>Portfolio</strong>: 
+            <a href="https://leetcode.com/u/praveenreddy18/" target="_blank">
+                <i class="fas fa-link"></i> [Portfolio Link]
+            </a>
+        </li>
+        <li><strong>LinkedIn</strong>: 
+            <a href="https://www.linkedin.com/in/praveenreddy4/" target="_blank">
+                <i class="fab fa-linkedin"></i> [LinkedIn Profile]
+            </a>
+        </li>
+        <li><strong>Email</strong>: 
+            <a href="mailto:guddampraveen@gmail.com">
+                <i class="fas fa-envelope"></i> [Email Address]
+            </a>
+        </li>
+    </ul>
+</body>
+</html>
+
