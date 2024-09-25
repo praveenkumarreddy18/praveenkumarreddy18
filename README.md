@@ -52,13 +52,6 @@ contributing to open-source communities.
 
 ---
 
-### Highlighted Project
-1. **[Leaf Disease Detection using Deep Learning](https://github.com/praveenkumarreddy18/leaf-disease-detection)**  
-   *Technologies*: Python, Keras, MySQL  
-   Leaf disease detection using deep learning leverages convolutional 
-   neural networks to analyze plant leaf images, identifying diseases early and 
-   accurately. This technology aids farmers in taking timely actions, 
-   improving crop yield and reducing pesticide use for sustainable agriculture.
 
 ---
 
@@ -76,6 +69,18 @@ contributing to open-source communities.
 ---
 
 ### Get In Touch
-- **Portfolio**: [Portfolio Link](https://leetcode.com/u/praveenreddy18/)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/praveenreddy4/)
-- **Email**: [Email Address](mailto:guddampraveen@gmail.com)
+- **Portfolio**: 
+  <a href="https://leetcode.com/u/praveenreddy18/" target="_blank">
+    <img src="https://img.icons8.com/color/24/000000/link.png" alt="Portfolio" width="24" height="24">
+  </a> [Portfolio Link](https://leetcode.com/u/praveenreddy18/)
+
+- **LinkedIn**: 
+  <a href="https://www.linkedin.com/in/praveenreddy4/" target="_blank">
+    <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn" width="24" height="24">
+  </a> [LinkedIn Profile](https://www.linkedin.com/in/praveenreddy4/)
+
+- **Email**: 
+  <a href="mailto:guddampraveen@gmail.com">
+    <img src="https://img.icons8.com/color/24/000000/gmail-new.png" alt="Email" width="24" height="24">
+  </a> [Email Address](mailto:guddampraveen@gmail.com)
+
