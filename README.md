@@ -63,9 +63,12 @@ contributing to open-source communities.
 ---
 
 ### Contributions & Learning
-- [![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](your_leetcode_profile_link) **LeetCode**  
+- **[LeetCode](your_leetcode_profile_link)**  
+  ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)  
   Solved over 100 problems in algorithms and data structures.
-- [![HackerRank](https://img.icons8.com/color/48/000000/hackerrank.png)](https://www.hackerrank.com/profile/guddampraveen) **HackerRank**  
+
+- **[HackerRank](https://www.hackerrank.com/profile/guddampraveen)**  
+  ![HackerRank](https://img.icons8.com/color/48/000000/hackerrank.png)  
   Ranked in the top 5% in Java and algorithm challenges.
 
 ---
