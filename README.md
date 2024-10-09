@@ -55,7 +55,7 @@ contributing to open-source communities.
 ---
 
 ### Contributions & Learning
-### Contributions & Learning
+
 - **[LeetCode](your_leetcode_profile_link)**  
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="24" height="24">  
   Solved over 100 problems in algorithms and data structures.
