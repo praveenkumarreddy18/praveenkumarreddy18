@@ -27,8 +27,7 @@ contributing to open-source communities.
 - **Frameworks**:  
   ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot, 
   ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png) Hibernate, 
-  ![JPA](https://img.icons8.com/color/48/000000/jpa.png) JPA, 
-  ![Kafka](https://img.icons8.com/color/48/000000/apache-kafka.png) Apache Kafka
+
   
 - **Tools**:  
   ![Maven](https://img.icons8.com/color/48/000000/apache-maven.png) Maven, 
