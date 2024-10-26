@@ -32,16 +32,14 @@ contributing to open-source communities.
 - **Tools**:  
   ![Maven](https://img.icons8.com/color/48/000000/apache-maven.png) Maven, 
   ![Git](https://img.icons8.com/color/48/000000/git.png) Git, 
-  ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) Jenkins
+
   
 - **Databases**:  
-  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL, 
-  ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL, 
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL,  
   ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
   
 - **Testing**:  
   ![JUnit](https://img.icons8.com/color/48/000000/junit.png) JUnit, 
-  ![Mockito](https://img.icons8.com/color/48/000000/mockito.png) Mockito
   
 - **Version Control**:  
   ![Git](https://img.icons8.com/color/48/000000/git.png) Git, 
